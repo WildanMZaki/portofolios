@@ -38,3 +38,30 @@ nav a.navbar-brand {
     background-image: url('./assets/bg2.jpg');
     background-size: 100%;
 }
+
+#Profil {
+    /* opacity: .6; */
+    background-image: url(./assets/bg3.jpg);
+    background-size: 100%;
+    border-radius: 0px 30px 0px 30px;
+}
+#skills {
+    background-image: url(./assets/bg1.jpg);
+    background-size: cover;
+}
+
+@media screen and (max-width: 640px) {
+    .cert { width: 90%; }   
+}
+
+@media screen and (min-width: 641px) {
+    .cert { width: 30%; }       
+    .cert {
+        margin: 0 15px;
+    }
+}
+
+.img-cert {
+    height: 200px;
+    object-fit: cover;
+}
