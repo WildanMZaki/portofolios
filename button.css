@@ -1,0 +1,65 @@
+/* Default button state */
+.btn-lv {
+    background-color: #ff22ff;
+    color: #fff;
+    border: none;
+  }
+  
+  /* Hover state */
+  .btn-lv:hover {
+    background-color: #f50df5;
+    cursor: pointer;
+  }
+  
+  /* Active state */
+  .btn-lv:active {
+    background-color: #e500e5;
+    box-shadow: 0 0 5px #000;
+  }
+  
+  /* Focus state */
+  .btn-lv:focus {
+    outline: none;
+    box-shadow: 0 0 5px #fff;
+  }
+  
+  /* Disabled state */
+  .btn-lv:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  /* Default button state */
+.btn-lv-outline {
+    background-color: transparent;
+    color: #ff22ff;
+    border: 2px solid #ff22ff;
+  }
+  
+  /* Hover state */
+  .btn-lv-outline:hover {
+    background-color: #ff22ff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  /* Active state */
+  .btn-lv-outline:active {
+    background-color: #e500e5;
+    border: 2px solid #e500e5;
+    color: #fff;
+    box-shadow: 0 0 5px #000;
+  }
+  
+  /* Focus state */
+  .btn-lv-outline:focus {
+    outline: none;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px #fff;
+  }
+  
+  /* Disabled state */
+  .btn-lv-outline:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }

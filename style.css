@@ -1,0 +1,39 @@
+body {
+	font-family: 'Segoe UI', sans-serif;
+}
+
+nav {
+	box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
+}
+
+nav a.navbar-brand {
+	font-weight: bold;
+}
+
+.bgDblue {background-color: #317ac7;}
+.textDblue {color: #317ac7;}
+.bgLblue {background-color: #7cf6fd;}
+.textLblue {color: #7cf6fd;}
+.bgGray {background-color: #a2aab0;}
+.textGray {color: #707d9d;}
+.bgLGray {background-color: #eee;}
+.textLGray {color: #eee;}
+.bglg {background-color: #d7d9e7;}
+.textlg {color: #d7d9e7;}
+.bgGunmetal {background-color: #2f2b3d;}
+.textGunmetal {color: #2f2b3d;}
+.textLV {color: #f2f;}
+.border-lv {
+    border: #f2f;
+}
+
+/* #imgAbout {
+    position: relative;
+    top: 16px;
+    left: 16px;
+} */
+
+#mainLanding {
+    background-image: url('./assets/bg2.jpg');
+    background-size: 100%;
+}

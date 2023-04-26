@@ -1,0 +1,28 @@
+** VERSION 3.x
+
+#Online
+
+//uncompressed 
+<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+
+//minified
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+//slim
+<script src="https://code.jquery.com/jquery-3.6.1.slim.js" integrity="sha256-tXm+sa1uzsbFnbXt8GJqsgi2Tw+m4BLGDof6eUPjbtk=" crossorigin="anonymous"></script>
+
+//slim minified
+<script src="https://code.jquery.com/jquery-3.6.1.slim.js" integrity="sha256-tXm+sa1uzsbFnbXt8GJqsgi2Tw+m4BLGDof6eUPjbtk=" crossorigin="anonymous"></script>
+
+#Offline
+//uncompressed -- production
+<script src="jquery-3.6.1.min.js"></script>
+
+//minified -- development
+<script src="jquery-3.6.1.js"></script>
+
+//slim  -- production
+<script src="jquery-3.6.1.slim.min.js"></script>
+
+//slim minified -- development
+<script src="jquery-3.6.1.slim.js"></script>
