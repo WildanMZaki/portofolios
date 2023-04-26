@@ -16,7 +16,7 @@ nav a.navbar-brand {
 .textLblue {color: #7cf6fd;}
 .bgGray {background-color: #a2aab0;}
 .textGray {color: #707d9d;}
-.bgLGray {background-color: #eee;}
+.bgLGray {background-color: #bbc4c5;}
 .textLGray {color: #eee;}
 .bglg {background-color: #d7d9e7;}
 .textlg {color: #d7d9e7;}
@@ -32,6 +32,7 @@ nav a.navbar-brand {
     top: 16px;
     left: 16px;
 } */
+.w10 { width: 10%;} 
 
 #mainLanding {
     background-image: url('./assets/bg2.jpg');
